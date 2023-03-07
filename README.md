@@ -20,7 +20,7 @@ Initial columns included:
 6. Like count
 7. Location
 
-Some key questions to be explored are:
+#### Some key questions to be explored are:
 
 1. Location of tweeters                                                                            
 2. Tweet trends across the years
@@ -28,7 +28,7 @@ Some key questions to be explored are:
 4. Top tweeters
 5. Frequent words in tweets
 
-Key Python libraries/packages for analysis:
+#### Key Python libraries/packages for analysis:
 
 pandas                                                                                                                                                             
 matplotlib                                                                                                                                                       
