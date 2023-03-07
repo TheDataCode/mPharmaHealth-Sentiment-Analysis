@@ -1,9 +1,9 @@
-### mPharmaHealth Twitter Sentiment Analysis
+## mPharmaHealth Twitter Sentiment Analysis
 
-#### INTRODUCTION
+### INTRODUCTION
 
-A twitter sentiment analysis project on a healthcare startup [mPharmaHealth](https://mpharma.com/)
-mPharmaHealth is a Ghanaian healthcare startup founded in 2013 to improve patients’ access to medication and medical care.
+A twitter sentiment analysis project on a healthcare startup [mPharmaHealth](https://mpharma.com/).                                                                   
+mPharmaHealth is a Ghanaian healthcare startup founded in 2013 to improve patients’ access to medication and medical care.                                          
 It works with a network of pharmacies across Africa to reduce prices and offers a payment scheme called Mutti, which allows patents to pay in installments using a mobile money wallet.
 
 
@@ -22,7 +22,7 @@ Initial columns included:
 
 Some key questions to be explored are:
 
-1. Location of tweeters
+1. Location of tweeters                                                                            
 2. Tweet trends across the years
 3. Sentiment scores (polarity) of tweets
 4. Top tweeters
@@ -30,12 +30,13 @@ Some key questions to be explored are:
 
 Key Python libraries/packages for analysis:
 
-pandas
-matplotlib
-seaborn
-text blob
-snscrape
-emoji
-wordcloud
-re
+pandas                                                                                                                                                             
+matplotlib                                                                                                                                                       
+seaborn                                                                                                                                                             
+text blob                                                                                                                                                             
+nltk                                                                                                                                                                 
+snscrape                                                                                                                                                              
+emoji                                                                                                                                                                 
+wordcloud                                                                                                                                                            
+re                                                                                                                                                                  
 
