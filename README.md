@@ -4,7 +4,7 @@
 
 A twitter sentiment analysis project on a healthcare startup [mPharmaHealth](https://mpharma.com/).                                                                   
 mPharmaHealth is a Ghanaian healthcare startup founded in 2013 to improve patients’ access to medication and medical care.                                          
-It works with a network of pharmacies across Africa to reduce prices and offers a payment scheme called Mutti, which allows patents to pay in installments using a mobile money wallet.
+It works with a network of pharmacies across Africa to reduce prices and offers a payment scheme called Mutti, which allows patients to pay in instalments using a mobile money wallet.
 
 
 #### About  Data and Analysis
