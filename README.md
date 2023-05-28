@@ -2,9 +2,12 @@
 
 ### INTRODUCTION
 
-A twitter sentiment analysis project on a healthcare startup [mPharmaHealth](https://mpharma.com/).                                                                   
+A twitter sentiment analysis on a healthcare startup [mPharmaHealth](https://mpharma.com/).                                                                   
 mPharmaHealth is a Ghanaian healthcare startup founded in 2013 to improve patients’ access to medication and medical care.                                          
 It works with a network of pharmacies across Africa to reduce prices and offers a payment scheme called Mutti, which allows patients to pay in instalments using a mobile money wallet.
+
+#### OBJECTIVE                                                                                                                         
+ Understand the public perception of the startup and impact on its success by evaluating brand reputation.
 
 
 #### About  Data and Analysis
