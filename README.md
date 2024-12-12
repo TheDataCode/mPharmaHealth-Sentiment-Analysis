@@ -31,6 +31,11 @@ Initial columns included:
 4. Top tweeters
 5. Frequent words in tweets
 
+
+#### Follow this [link](https://www.novypro.com/create_project/mpharma-analysis) for visualisation in Power BI
+
+
+
 #### Key Python libraries/packages for analysis:
 
 pandas                                                                                                                                                             
