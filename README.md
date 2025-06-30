@@ -38,8 +38,8 @@ Tweet locations show that most users are from Ghana and Nigeria—mPharmaHealth�
 The word cloud reveals that many tweets are focused on topics aligned with the brand’s core initiatives. This suggests strong audience engagement with mPharmaHealth’s mission and messaging.
 
 
-
-#### Follow this [link](https://www.novypro.com/create_project/mpharma-analysis) for visualisation in Power BI
+- Go [here](https://github.com/TheDataCode/mPharmaHealth-Sentiment-Analysis/blob/main/mpharma_sentiment_analysis.ipynb) for Python analysis
+- Follow this [link](https://www.novypro.com/create_project/mpharma-analysis) for visualisation in Power BI
 
 
 ### Recommendations
