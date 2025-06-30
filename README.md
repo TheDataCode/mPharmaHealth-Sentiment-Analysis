@@ -5,23 +5,7 @@
 A twitter sentiment analysis on a healthcare startup [mPharmaHealth](https://mpharma.com/).                                                                   
 mPharmaHealth is a Ghanaian healthcare startup founded in 2013 to improve patients’ access to medication and medical care.                                          
 It works with a network of pharmacies across Africa to reduce prices and offers a payment scheme called Mutti, which allows patients to pay in instalments using a mobile money wallet.
-
-#### OBJECTIVE                                                                                                                         
- Understand the public perception of the startup and impact on its success by evaluating brand reputation.
-
-
-#### About  Data and Analysis
-About 1300 tweets  between 2014- 2023 were extracted and transformed.
-
-
-Initial columns included:
-1. Date 
-2. Userid
-3. Username
-4. Content
-5. Retweet count
-6. Like count
-7. Location
+The objective of this analysis is to understand the public perception of the startup and evaluate the brand's reputation.
 
 #### Some key questions to be explored are:
 
@@ -32,19 +16,28 @@ Initial columns included:
 5. Frequent words in tweets
 
 
+#### Data Structure
+About 1300 tweets  between 2014 and 2023 were extracted and transformed.
+
+Initial columns included:
+1. Date 
+2. Userid
+3. Username
+4. Content
+5. Retweet count
+6. Like count
+7. Location
+
+#### Executive Summary
+This analysis evaluates public sentiment about mPharmaHealth using polarity scores from tweets. Sentiment is measured on a scale from -1 (very negative) to 1 (very positive). For this review, scores between -0.5 and 0.0 are considered neutral.
+
+Most sentiment scores are concentrated around 0.0, indicating that public opinion is generally neutral. There are more neutral and positive sentiments combined than negative ones.
+
+
+
 #### Follow this [link](https://www.novypro.com/create_project/mpharma-analysis) for visualisation in Power BI
 
 
 
-#### Key Python libraries/packages for analysis:
-
-pandas                                                                                                                                                             
-matplotlib                                                                                                                                                       
-seaborn                                                                                                                                                             
-text blob                                                                                                                                                             
-nltk                                                                                                                                                                 
-snscrape                                                                                                                                                              
-emoji                                                                                                                                                                 
-wordcloud                                                                                                                                                            
-re                                                                                                                                                                  
+                 
 
