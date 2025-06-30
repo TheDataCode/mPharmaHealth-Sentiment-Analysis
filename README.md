@@ -33,7 +33,7 @@ This analysis measures public sentiment toward mPharmaHealth using polarity scor
 
 Most sentiment scores are centred around 0.0, showing that public opinion is largely neutral. There are more neutral and positive sentiments combined than negative ones.
 
-Tweet locations show that most users are from Ghana and Nigeria—mPharmaHealth’s key markets—while others are spread across different countries. This global spread indicates growing international visibility and interest in the brand.
+Tweet locations show that most users are from Ghana and Nigeria, mPharmaHealth’s key markets, while others are spread across different countries. This global spread indicates growing international visibility and interest in the brand.
 
 The word cloud reveals that many tweets are focused on topics aligned with the brand’s core initiatives. This suggests strong audience engagement with mPharmaHealth’s mission and messaging.
 
