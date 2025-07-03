@@ -5,15 +5,13 @@
 A Twitter sentiment analysis on a healthcare startup [mPharmaHealth](https://mpharma.com/).                                                                   
 mPharmaHealth is a Ghanaian healthcare startup founded in 2013 to improve patients’ access to medication and medical care.                                          
 They work with a network of pharmacies across Africa to reduce prices and offer a payment scheme called Mutti, which allows patients to pay in instalments using a mobile money wallet.
-The objective of this analysis is to understand the public perception of the startup and evaluate the brand's reputation.
 
-#### Key areas to be explored:
+### OBJECTIVE
+- Strengthen Customer Loyalty in Core Markets
+Focus marketing efforts in Ghana and Nigeria to reinforce positive sentiment, deepen brand loyalty, and turn neutral customers into brand advocates.
 
-1. Location of tweeters                                                                            
-2. Tweet trends across the years
-3. Sentiment scores (polarity) of tweets
-4. Top tweeters
-5. Frequent words in tweets
+- Enhance Global Brand Presence
+Increase international awareness, with the aim of expanding mPharmaHealth’s reach, building credibility, and attracting global partnerships.
 
 
 #### Data Structure
