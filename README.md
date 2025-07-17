@@ -37,7 +37,7 @@ The word cloud reveals that many tweets are focused on topics aligned with the b
 
 
 - Go [here](https://github.com/TheDataCode/mPharmaHealth-Sentiment-Analysis/blob/main/mpharma_sentiment_analysis.ipynb) for Python analysis
-- Follow this [link](https://www.novypro.com/create_project/mpharma-analysis) for visualisation in Power BI
+- Follow this [link](https://app.powerbi.com/view?r=eyJrIjoiNjY1ZWIxNTAtNDkzMC00ZGM5LWEzN2QtNTdlMjFkNWM5ZTViIiwidCI6IjFjNWQ1YzI5LWQ2MmYtNDQzYS04MTk4LWE4ZTY4ZjM2ZDk0MiJ9) for visualisation in Power BI
 
 
 ### Recommendations
